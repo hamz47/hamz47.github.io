@@ -14,4 +14,4 @@
 - *Matriculation in Science in 2015*
 - *intermediate in Pre-Engeneering in 2017*
 - *Enrolled in SSUET in Software Engeneering in 2019*
-- 
+ 
