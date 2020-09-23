@@ -2,6 +2,6 @@
 
 ## Objective
 
-***Adress**:F-92 Malir Cantt KHI*
+* ***Adress**:F-92 Malir Cantt KHI*
 
-***Email**: Harain248@gmail.com **PH**:03012244859*
+* ***Email**: Harain248@gmail.com **PH**:03012244859*
