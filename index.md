@@ -1,5 +1,5 @@
-![My image].(https://pixabay.com/vectors/avatar-icon-placeholder-1577909/)
-# Hamz47
+![My image](https://pixabay.com/vectors/avatar-icon-placeholder-1577909/)
+# Hamza Raza
 
 
 * ***Adress**:F-92 Malir Cantt KHI*
