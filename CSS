@@ -1,0 +1,21 @@
+h1{color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: chartreuse;
+    font-size: 100px;}
+
+
+    ol li a {font-size: 25px;}
+
+    li a:visited{color:brown;}
+    li a:link{color:yellow;}
+    li a:hover{border: 2px solid black;color: greenyellow;background-color: indigo;}
+
+    div{margin: 50px; padding:100px;border:5px solid blue ;}
+
+    ul li a {font-size: 25px;}
+
+    li a:visited{color:brown;}
+    li a:link{color: blue;}
+    li a:hover{border: 2px solid gray;color: greenyellow;background-color: indigo;}
+
+    div{margin: 50px; padding:100px;border:10px dotted red ;background:linear-gradient(black,green,yellow,purple)}
